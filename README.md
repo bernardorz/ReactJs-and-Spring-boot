@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="/.github/logo.svg" alt="Logo"/><br><br>
-    The best for you to hear, always! 🎧<br>
+    <img src="https://media.discordapp.net/attachments/790018464881573889/843155361300086794/dashboard.png?width=1189&height=625" alt="Logo"/>
 </p>
 
 ------------
@@ -43,7 +42,7 @@ $ git clone https://github.com/Goytai/Podcastr.git
 Acess the folder:
 
 ```bash
-$ cd Podcastr
+$ cd ReactJs-and-Spring-boot/
 ```
 
 Follow the steps below:
@@ -56,22 +55,16 @@ $ cd ./frontend
 $ yarn start
 ```
 ------------
-<h2>🔖 Layout</h2>
-The project layout is available on <a href="https://www.figma.com/file/is9KGod2KJ8eINasYTA0ad/Podcastr">Figma</a>.
 
-------------
 <h2>👣 Next steps</h2>
 
-- [x] Dark Mode
 - [x] Responsive Web Design
+- [ ] Dark Mode
 - [ ] Progressive Web App
 
 ------------
 <h2>📝 License</h2>
-This project is licensed under the MIT License. See the <a href="https://github.com/Goytai/Podcastr/blob/master/LICENSE">LICENSE</a> file for details.
-
-------------
-
+This project is licensed under the MIT License. See the <a href="#">LICENSE</a> file for details.
 
 ------------
 
